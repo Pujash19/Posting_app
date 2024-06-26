@@ -48,8 +48,5 @@ This is a simple web application written in vanilla PHP that allows users to cre
 2. **View Post**: Click on the "View Posts" link in the navigation menu to see a list of all posts. Click on a post to view its details.
 3. **Delete Post**: Click on the "Delete" button next to a post to delete it.
 
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request with your changes.
 
 
