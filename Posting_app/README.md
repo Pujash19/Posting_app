@@ -12,13 +12,13 @@ This is a simple web application written in HTML, CSS, Javascript and react that
 ## Screenshots
 
 - **Home :**
-  ![Home]()
+  ![Home](https://github.com/Pujash19/Posting_app/blob/main/Posting_app/screenshots/Screenshot%202024-07-06%20221107.png)
 
 - **Create :**
-  ![Create]()
+  ![Create](https://github.com/Pujash19/Posting_app/blob/main/Posting_app/screenshots/Screenshot%202024-07-06%20221207.png)
 
 - **Edit/Delete :**
-  ![Post]()
+  ![Post](https://github.com/Pujash19/Posting_app/blob/main/Posting_app/screenshots/Screenshot%202024-07-06%20221439.png)
 
 ## Installation
 
